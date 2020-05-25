@@ -11,7 +11,12 @@ Ich werde auch das Musikvideo über den Greensrenn laufen lassen.
 
 + OBS
   + Alle Tastenkombinationen
+    + Greenscreen, und Diashow
 
 
 + Vide- und Bildfiles
     + Praesentation-Marsimoto\Medien
+      + Video: Länge 32,4 Sekunden
+      +  \diashow
+
++ [Voicechanger](https://voicechanger.io/voicemaker#!/{%22effects%22:[{%22name%22:%22pitchShift%22,%22params%22:{%22shift%22:0.66}}],%22version%22:1})
