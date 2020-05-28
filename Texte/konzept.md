@@ -22,12 +22,20 @@ Ich werde auch das Musikvideo über den Greensrenn laufen lassen.
 + [Voicechanger](https://voicechanger.io/voicemaker#!/{%22effects%22:[{%22name%22:%22pitchShift%22,%22params%22:{%22shift%22:0.66}}],%22version%22:1})
 
 # Was werde ich sagen?
-
 ## Fakten zu Marsimoto
 + Marsimoto = Materia
   + Lila Wolken
 + Alter
   + 4. Dezember 1982 = 38 Jahre alt
+    + Rostock
++ Famielie
+  + acht Jahre älterer Bruder
+  + vier Jahre älterer Schwester
+  + alleinerziehende Mutter
++ Kariere
+  1. Stammspieler der U-15-, U-16- und U-17-Nationalmannschaft
+  1. Model in NewYork
+  1. Schauspielschule Reduta-Berlin
 ## Zur Musik
 + Warum hat Materia Marsimoto erschaffen?
   + "Ich habe Marsimoto erschaffen, damit Deutschland wieder träumen kann"
